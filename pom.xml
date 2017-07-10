@@ -68,6 +68,7 @@
                         <hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
                         <versionTagPrefix>blither-</versionTagPrefix>
                     </flowInitContext>
+                    <noDeploy>true</noDeploy>
                 </configuration>
 			</plugin>
 		</plugins>
