@@ -4,7 +4,7 @@
 
 	<groupId>com.sample.web</groupId>
 	<artifactId>sample-rest-doc</artifactId>
-	<version>blither-0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>sample-rest-doc</name>
