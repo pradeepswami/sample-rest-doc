@@ -4,7 +4,7 @@
 
 	<groupId>com.sample.web</groupId>
 	<artifactId>sample-rest-doc</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>sample-rest-doc</name>
